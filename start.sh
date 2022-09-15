@@ -1,3 +1,3 @@
 #!/bin/bash
-adb connect $1:$2
+adb connect $1:5555
 scrcpy
