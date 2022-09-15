@@ -1,4 +1,4 @@
-#How Enable ADB
+<b>How Enable ADB</b>
 
 - Go to "Settings"<br/>
 - Go to "About Phone"<br/>
@@ -8,7 +8,7 @@
 - Sroll down until find "Enable Debug USB"<br/>
 - Enable it<br/>
 
-##How install
+<b>How install</b>
 
 - git clone https://github.com/Akira96kill/AndroidTV_to_PC_Linux<br/>
 - cd "AndroidTV_to_PC_Linux"<br/>
